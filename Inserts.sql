@@ -10,7 +10,9 @@ INSERT INTO Artikel (ArtikelNr,Bezeichnung,Preis) VALUES
 (99222,'Weihnachtskugel',5.00),
 (99700,'Krawatte',30),
 (99123,'Wecker',14.49),
-(99124,'Taschenkalender',5.99);
+(99124,'Taschenkalender',5.99),
+(16206,'Taschenlampe',2.99);
+
 
 
 INSERT INTO Bestellung (KundenNr,Datum) VALUES
