@@ -1,13 +1,13 @@
 INSERT INTO Kunde (Name,Adresse) VALUES
-('Tom Meier','Raucherweg 44, 50667 Köln'),
+('Tom Meier','Raucherweg 44, 50667 KÃ¶ln'),
 ('Lisa Markov','Kondensatorstr. 11, 20097 Hamburg'),
 ('Enrica Fermi','Ableitung 2, 80336 Stuttgart'),
-('Dagobert Duck','Entenstraße 1, 12345 Entenhausen');
+('Dagobert Duck','EntenstraÃŸe 1, 12345 Entenhausen');
 
 
 INSERT INTO Artikel (ArtikelNr,Bezeichnung,Preis) VALUES
-(99009,'Ladegerät',23.90),
-(99102,'Kopfhörer',145.99),
+(99009,'LadegerÃ¤t',23.90),
+(99102,'KopfhÃ¶rer',145.99),
 (99222,'Weihnachtskugel',5.00),
 (99700,'Krawatte',30),
 (99123,'Wecker',14.49),
