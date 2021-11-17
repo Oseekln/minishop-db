@@ -6,6 +6,7 @@ INSERT INTO Kunde (Name,Adresse) VALUES
 
 
 INSERT INTO Artikel (ArtikelNr,Bezeichnung,Preis) VALUES
+(99010,'Handy',599.99),
 (99009,'Ladegerät',23.90),
 (99102,'Kopfhörer',145.99),
 (99222,'Weihnachtskugel',5.00),
@@ -13,6 +14,8 @@ INSERT INTO Artikel (ArtikelNr,Bezeichnung,Preis) VALUES
 (99123,'Wecker',14.49),
 (99124,'Taschenkalender',5.99),
 (99128,'Bugatti Veyron',1500000.00);
+(20624, 'Tastatur', 15.99);
+
 
 
 INSERT INTO Bestellung (KundenNr,Datum) VALUES
